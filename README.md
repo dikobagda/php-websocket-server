@@ -14,7 +14,7 @@
 * Hit from websocket client using "simple websocket client"
  ![websocket client](https://i.imgur.com/uXfCgBu.png)
  
-* You will see result (record add in MySQL)
+* You will see the result in MySQL database (record added in MySQL table)
   
 
 
